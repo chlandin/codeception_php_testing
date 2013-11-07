@@ -1,0 +1,8 @@
+{
+    "reqire": {
+
+    },
+    "require-dev": {
+        "codeception/codeception": "dev-master"
+    }
+}
